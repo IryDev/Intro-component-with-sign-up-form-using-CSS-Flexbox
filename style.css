@@ -17,6 +17,8 @@
 
 body {
   background-image: url(images/bg-intro-desktop.png);
+  background-size: cover;
+  background-position: center;
   min-height: 100vh;
   width: 100%;
 }
@@ -33,7 +35,6 @@ body {
 .screen {
   height: 100vh;
   width: 100%;
-  
 }
 
 .main-content {
